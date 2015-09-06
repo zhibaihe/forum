@@ -8,5 +8,13 @@
             "name": "DUAN Zhiyan",
             "email": "zhiyan@zhibaihe.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Zhibaihe\\Forum\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "~5"
+    }
 }
