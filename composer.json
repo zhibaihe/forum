@@ -1,0 +1,12 @@
+{
+    "name": "zhibaihe/forum",
+    "description": "Minimal forum for Laravel",
+    "keywords": ["forum", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DUAN Zhiyan",
+            "email": "zhiyan@zhibaihe.com"
+        }
+    ]
+}
